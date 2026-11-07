@@ -53,6 +53,11 @@
 
 ## Getting started
 
+### Download
+Get the latest **`Undistra-x.y.z.dmg`** from [Releases](https://github.com/ABDOGH98/undistra/releases/latest), open it, and drag Undistra into **Applications**.
+
+> The app isn't notarized yet, so macOS warns you on first launch. Go to **System Settings → Privacy & Security → Open Anyway**, or run `xattr -dr com.apple.quarantine /Applications/Undistra.app`.
+
 ### Run from Xcode
 1. Open `Undistra.xcodeproj`.
 2. Choose the **Undistra** scheme and **My Mac**.
